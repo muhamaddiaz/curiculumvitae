@@ -1,0 +1,33 @@
+.side-nav {
+    position: fixed;
+    width: 20%;
+    height: 100%;
+    background-color: aliceblue;
+    z-index: 100;
+}
+.side-margin {
+    margin-left: 20%;
+}
+.close-side-nav {
+    font-size: 2.5em;
+    color: black;
+    text-align: left;
+}
+.profil-container {
+    text-align: center;
+    color: black;
+}
+body {
+    background-color: whitesmoke;
+}
+.card {
+    box-shadow: 0 0 5px grey;
+    margin: 10px 0px;
+}
+.card-block {
+    background-color: white;
+    padding: 15px;
+}
+.sagoe {
+    font-family: verdana;
+}

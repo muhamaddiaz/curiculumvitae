@@ -1,0 +1,32 @@
+.side-nav {
+    position: fixed;
+    width: 20%;
+    height: 100%;
+    background-color: aliceblue;
+}
+.side-margin {
+    margin-left: 20%;
+}
+.close-side-nav {
+    font-size: 3em;
+    color: black;
+    text-align: right;
+}
+.profil-container {
+    text-align: center;
+    color: black;
+}
+body {
+    background-color: whitesmoke;
+}
+.card {
+    box-shadow: 0 0 5px grey;
+    margin: 10px;
+}
+.card-block {
+    background-color: white;
+    padding: 15px;
+}
+.sagoe {
+    font-family: 'segoe script';
+}
